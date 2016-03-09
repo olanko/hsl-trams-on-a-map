@@ -1,0 +1,9 @@
+[submodule "hsl"]
+	path = hsl
+	url = https://github.com/olanko/hsl
+[submodule "hsl-middleman"]
+	path = hsl-middleman
+	url = https://github.com/olanko/hsl-middleman
+[submodule "hsl-frontend"]
+	path = hsl-frontend
+	url = https://github.com/olanko/hsl-frontend

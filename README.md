@@ -8,15 +8,15 @@ http://dev.hsl.fi/
 Microservices:
 
 * hsl
-** fetch data from HSL MQTT and push it to rabbitmq queue
+  * fetch data from HSL MQTT and push it to rabbitmq queue
 
 * hsl-middleman
-** cache position data for each vehicle
-** serve positional data when needed
+  * cache position data for each vehicle
+  * serve positional data when needed
 
 * hsl-frontend
-** parse and serve positional data that clienapp needs
-** static AngularJS client app
+  * parse and serve positional data that clienapp needs
+  * static AngularJS client app
 
 olli.korhonen@iki.fi
 

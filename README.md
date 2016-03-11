@@ -7,9 +7,8 @@ http://dev.hsl.fi/
 
 Microservices talking via RabbitMQ:
 
-* hsl, two totally separate microservices:
+* hsl:
   * hsl.js: fetch data from HSL MQTT
-  * httpserver: parse and serve positional data for client app
 
 * hsl-middleman
   * cache position data for each vehicle
@@ -17,6 +16,7 @@ Microservices talking via RabbitMQ:
 
 * hsl-frontend
   * static AngularJS client app
+  * server: parse and serve positional data for client app
 
 olli.korhonen@iki.fi
 

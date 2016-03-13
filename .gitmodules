@@ -7,3 +7,6 @@
 [submodule "hsl-frontend"]
 	path = hsl-frontend
 	url = git@github.com:olanko/hsl-frontend.git
+[submodule "hsl-route"]
+	path = hsl-route
+	url = https://github.com/olanko/hsl-route

@@ -18,6 +18,9 @@ Microservices talking via RabbitMQ:
   * static AngularJS client app
   * server: parse and serve positional data for client app
 
+* hsl-route
+  * python microservice providing route information
+
 olli.korhonen@iki.fi
 
 
